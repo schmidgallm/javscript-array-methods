@@ -1,0 +1,31 @@
+{
+  "name": "javscript-array-methods",
+  "version": "1.0.0",
+  "description": "Working examples of JavaScript array methods",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fetch": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmidgallm/javscript-array-methods.git"
+  },
+  "keywords": [
+    "filter",
+    "reduce",
+    "map",
+    "sort",
+    "foreach"
+  ],
+  "author": "Michael Schmidgall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schmidgallm/javscript-array-methods/issues"
+  },
+  "homepage": "https://github.com/schmidgallm/javscript-array-methods#readme"
+}
